@@ -1,3 +1,1 @@
----
-redirect_to: "http://114.116.114.149/"
----
+hosting website of exOmics.ncRNAlab.org see gh-pages/
