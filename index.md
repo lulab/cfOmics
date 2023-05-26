@@ -1,3 +1,3 @@
 ---
-redirect_to: "http://114.116.114.149"
+redirect_to: "http://111.198.139.65/cfomics/"
 ---
