@@ -1,3 +1,11 @@
----
-redirect_to: "http://111.198.139.65/cfomics/"
----
+# Announcement
+
+We sincerely announce that this website is temporarily unavailable because our server lease has expired and we lack sufficient maintenance staff. 
+
+We are working diligently to resume service and are actively seeking help.
+
+We sincerely apologize for this inconvenience. 
+
+If you are able to provide help with server lease and maintenance support, please [contact us](http://lulab.life.tsinghua.edu.cn/ncrnalab/home/#contact).
+
+
